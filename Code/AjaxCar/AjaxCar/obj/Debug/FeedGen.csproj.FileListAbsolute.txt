@@ -1,0 +1,9 @@
+G:\WORK\CatMap\Code\FeedGen\FeedGen\obj\Debug\ResolveAssemblyReference.cache
+G:\WORK\CatMap\Code\FeedGen\FeedGen\obj\Debug\FeedGen.Form1.resources
+G:\WORK\CatMap\Code\FeedGen\FeedGen\obj\Debug\FeedGen.Properties.Resources.resources
+G:\WORK\CatMap\Code\FeedGen\FeedGen\obj\Debug\FeedGen.csproj.GenerateResource.Cache
+G:\WORK\CatMap\Code\FeedGen\FeedGen\bin\Debug\FeedGen.exe.config
+G:\WORK\CatMap\Code\FeedGen\FeedGen\bin\Debug\FeedGen.exe
+G:\WORK\CatMap\Code\FeedGen\FeedGen\bin\Debug\FeedGen.pdb
+G:\WORK\CatMap\Code\FeedGen\FeedGen\obj\Debug\FeedGen.exe
+G:\WORK\CatMap\Code\FeedGen\FeedGen\obj\Debug\FeedGen.pdb

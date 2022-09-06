@@ -1,0 +1,41 @@
+﻿ 
+
+--- Select Year 2000
+
+ 
+
+http://www.rmeuropean.com/audi-parts.aspx?__EVENTTARGET=ctl00_MainContentHolder_submitBut1&__EVENTARGUMENT=MakeYear|{"make":"60","year":"2000","model":"","group":"","keyword":"","category":"","search":"","models":[],"groups":[],"categories":[]}
+
+ 
+
+ 
+
+--- Select Year 2000, A4 1.8 Turbo
+
+ 
+
+http://www.rmeuropean.com/audi-parts.aspx?__EVENTTARGET=ctl00_MainContentHolder_submitBut2&__EVENTARGUMENT=Model|{"make":"60","year":"2000","model":"A4A18","group":"","keyword":"","category":"","search":"","models":[{"name":"","value":" "},{"name":"A4 1.8 Turbo","value":"A4A18"},{"name":"A4 1.8 Turbo Quattro","value":"A4Q18"},{"name":"A4 2.8","value":"A4A28"},{"name":"A4 2.8 Quattro","value":"A4Q28"},{"name":"A6 2.8","value":"A6A28"},{"name":"A6 2.8 Quattro","value":"A6Q28"},{"name":"A6 Quattro 2.7","value":"A6Q27"},{"name":"A6 Quattro 4.2","value":"A6Q42"},{"name":"A8 Quattro 4.2","value":"A8Q"},{"name":"Beetle 1.8","value":"BE18"},{"name":"Beetle 1.9","value":"BE19"},{"name":"Beetle 2.0","value":"BE20"},{"name":"Cabrio (VW)","value":"GCAB"},{"name":"Eurovan 2.8","value":"EURO9"},{"name":"Golf IV 1.8, German","value":"GOLFM"},{"name":"Golf IV 1.9, Brazil","value":"GOLFR"},{"name":"Golf IV 1.9, German","value":"GOLFN"},{"name":"Golf IV 2.0, Brazil","value":"GOLFT"},{"name":"Golf IV 2.0, German","value":"GOLFO"},{"name":"Golf IV 2.8, German","value":"GOLFP"},{"name":"Jetta IV 1.8","value":"JETP"},{"name":"Jetta IV 1.9","value":"JETR"},{"name":"Jetta IV 2.0","value":"JETT"},{"name":"Jetta IV 2.8","value":"JETV"},{"name":"Passat 1.8","value":"PASL"},{"name":"Passat 2.8","value":"PASM"},{"name":"Passat 2.8 4-Motion","value":"PAST"},{"name":"S4 Quattro","value":"S4B"},{"name":"TT","value":"ATTA1"},{"name":"TT Quattro 1.8","value":"ATTQ1"}],"groups":[],"categories":[]}
+
+ 
+
+ 
+
+--- Select Year 2000, A4 1.8 Turbo, Belts
+
+ 
+
+http://www.rmeuropean.com/audi-parts.aspx?__EVENTTARGET=ctl00_MainContentHolder_submitBut3&__EVENTARGUMENT=Group|{"make":"60","year":"2000","model":"A4A18","group":"B2","keyword":"","category":"","search":"25037716","models":[{"name":"","value":" "},{"name":"A4 1.8 Turbo","value":"A4A18"},{"name":"A4 1.8 Turbo Quattro","value":"A4Q18"},{"name":"A4 2.8","value":"A4A28"},{"name":"A4 2.8 Quattro","value":"A4Q28"},{"name":"A6 2.8","value":"A6A28"},{"name":"A6 2.8 Quattro","value":"A6Q28"},{"name":"A6 Quattro 2.7","value":"A6Q27"},{"name":"A6 Quattro 4.2","value":"A6Q42"},{"name":"A8 Quattro 4.2","value":"A8Q"},{"name":"Beetle 1.8","value":"BE18"},{"name":"Beetle 1.9","value":"BE19"},{"name":"Beetle 2.0","value":"BE20"},{"name":"Cabrio (VW)","value":"GCAB"},{"name":"Eurovan 2.8","value":"EURO9"},{"name":"Golf IV 1.8, German","value":"GOLFM"},{"name":"Golf IV 1.9, Brazil","value":"GOLFR"},{"name":"Golf IV 1.9, German","value":"GOLFN"},{"name":"Golf IV 2.0, Brazil","value":"GOLFT"},{"name":"Golf IV 2.0, German","value":"GOLFO"},{"name":"Golf IV 2.8, German","value":"GOLFP"},{"name":"Jetta IV 1.8","value":"JETP"},{"name":"Jetta IV 1.9","value":"JETR"},{"name":"Jetta IV 2.0","value":"JETT"},{"name":"Jetta IV 2.8","value":"JETV"},{"name":"Passat 1.8","value":"PASL"},{"name":"Passat 2.8","value":"PASM"},{"name":"Passat 2.8 4-Motion","value":"PAST"},{"name":"S4 Quattro","value":"S4B"},{"name":"TT","value":"ATTA1"},{"name":"TT Quattro 1.8","value":"ATTQ1"}],"groups":[{"name":"","value":" "},{"name":"All Groups","value":"ALL"},{"name":"Belts","value":"B2"},{"name":"Body","value":"B4"},{"name":"Brakes","value":"B6"},{"name":"Cooling System","value":"C2"},{"name":"Drive Shafts, Axles, Differentials","value":"D2"},{"name":"Engine","value":"E2"},{"name":"Exhaust","value":"E4"},{"name":"Fuel/Air Intake System","value":"F2"},{"name":"Heating, A/C","value":"H2"},{"name":"Ignition, Alternator, Starter, Battery","value":"I2"},{"name":"Lighting","value":"L2"},{"name":"Relays, Motors, Switches, Wiper","value":"R2"},{"name":"Supplies and Miscellaneous","value":"Z2"},{"name":"Suspension, Steering System","value":"S2"},{"name":"Transmission, Clutch","value":"T2"}],"categories":[]}
+
+ 
+
+ 
+
+--- Select Year 2000, A4 1.8 Turbo, Belts, A/C Compressor Belt
+
+ 
+
+ 
+
+http://www.rmeuropean.com/audi-parts.aspx?__EVENTTARGET=ctl00_MainContentHolder_submitBut4&__EVENTARGUMENT=Category|{"make":"60","year":"2000","model":"A4A18","group":"B2","keyword":"","category":"9310","search":"25037716","models":[{"name":"","value":" "},{"name":"A4 1.8 Turbo","value":"A4A18"},{"name":"A4 1.8 Turbo Quattro","value":"A4Q18"},{"name":"A4 2.8","value":"A4A28"},{"name":"A4 2.8 Quattro","value":"A4Q28"},{"name":"A6 2.8","value":"A6A28"},{"name":"A6 2.8 Quattro","value":"A6Q28"},{"name":"A6 Quattro 2.7","value":"A6Q27"},{"name":"A6 Quattro 4.2","value":"A6Q42"},{"name":"A8 Quattro 4.2","value":"A8Q"},{"name":"Beetle 1.8","value":"BE18"},{"name":"Beetle 1.9","value":"BE19"},{"name":"Beetle 2.0","value":"BE20"},{"name":"Cabrio (VW)","value":"GCAB"},{"name":"Eurovan 2.8","value":"EURO9"},{"name":"Golf IV 1.8, German","value":"GOLFM"},{"name":"Golf IV 1.9, Brazil","value":"GOLFR"},{"name":"Golf IV 1.9, German","value":"GOLFN"},{"name":"Golf IV 2.0, Brazil","value":"GOLFT"},{"name":"Golf IV 2.0, German","value":"GOLFO"},{"name":"Golf IV 2.8, German","value":"GOLFP"},{"name":"Jetta IV 1.8","value":"JETP"},{"name":"Jetta IV 1.9","value":"JETR"},{"name":"Jetta IV 2.0","value":"JETT"},{"name":"Jetta IV 2.8","value":"JETV"},{"name":"Passat 1.8","value":"PASL"},{"name":"Passat 2.8","value":"PASM"},{"name":"Passat 2.8 4-Motion","value":"PAST"},{"name":"S4 Quattro","value":"S4B"},{"name":"TT","value":"ATTA1"},{"name":"TT Quattro 1.8","value":"ATTQ1"}],"groups":[{"name":"","value":" "},{"name":"All Groups","value":"ALL"},{"name":"Belts","value":"B2"},{"name":"Body","value":"B4"},{"name":"Brakes","value":"B6"},{"name":"Cooling System","value":"C2"},{"name":"Drive Shafts, Axles, Differentials","value":"D2"},{"name":"Engine","value":"E2"},{"name":"Exhaust","value":"E4"},{"name":"Fuel/Air Intake System","value":"F2"},{"name":"Heating, A/C","value":"H2"},{"name":"Ignition, Alternator, Starter, Battery","value":"I2"},{"name":"Lighting","value":"L2"},{"name":"Relays, Motors, Switches, Wiper","value":"R2"},{"name":"Supplies and Miscellaneous","value":"Z2"},{"name":"Suspension, Steering System","value":"S2"},{"name":"Transmission, Clutch","value":"T2"}],"categories":[{"name":"","value":" "},{"name":"A/C Compressor Belt","value":"9310"},{"name":"AC Compressor Belt","value":"9310"},{"name":"Alternator Belt","value":"9310"},{"name":"Auxiliary Fan Drive Belt","value":"9310"},{"name":"Belt - A/C Compressor","value":"9310"},{"name":"Belt - AC Compressor","value":"9310"},{"name":"Belt - Alternator","value":"9310"},{"name":"Belt - Auxiliary Fan Drive","value":"9310"},{"name":"Belt - Drive","value":"9310"},{"name":"Belt - Power Steering","value":"9310"},{"name":"Belt - Serpentine","value":"9310"},{"name":"Belt - Timing","value":"9320"},{"name":"Drive Belt","value":"9310"},{"name":"Kit - Timing Belt","value":"9321"},{"name":"Power Steering Belt","value":"9310"},{"name":"Serpentine Belt","value":"9310"},{"name":"Timing Belt","value":"9320"},{"name":"Timing Belt - Kit","value":"9321"},{"name":"Timing Belt Kit","value":"9321"}]}
+
+
